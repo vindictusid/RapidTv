@@ -55,6 +55,13 @@
     "expiresAt": "2026-06-09",
     "allowOffline": true
   },
+{
+    "id": "fd882da3497d1085",
+    "username": "6282168428259",
+    "password": "rapidtvmod",
+    "expiresAt": "2026-06-09",
+    "allowOffline": true
+  },
   {
     "id": "android_device_id_2",
     "username": "user2",
